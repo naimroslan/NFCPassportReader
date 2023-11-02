@@ -2,7 +2,7 @@
   "name": "nfc-passport-reader",
   "version": "0.1.0",
   "description": "A React Native library for reading ePassport using NFC for Android",
-  "main": "lib/commonjs/index",
+  "main": "index.android.js",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
   "react-native": "src/index",
